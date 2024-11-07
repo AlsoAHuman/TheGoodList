@@ -1,5 +1,5 @@
 # TheGoodList
-A compilation of ethical sources, at least according to my standards. This project is still under construction.
+A compilation of ethical sources, at least according to my standards. This project is still under construction. This symbol :warning: means the source has not been investigating to my liking and is to be faced with some sceptisism. If that symbol is not used, you can assume the project is relatively trustworthy. :heart_hands: means that the project gives 100% of profits to some form of charity.
 
 ## Qualifications
 Each company must meet the following criteria  
@@ -11,7 +11,7 @@ Each company must meet the following criteria
 
 ## Good Shops
 
-### [Good.Store](https://good.store)
+### [Good.Store](https://good.store) - :heart_hands:
 > 100% of Profits Go To Charity.  
 > Founded By [The Green Brothers](https://en.wikipedia.org/wiki/Green_brothers).  
 > Focuses on Ethical and Environmentally Friendly Production.
@@ -20,5 +20,14 @@ Each company must meet the following criteria
 > Trans/Queer Focused  
 > Queer & Small Business  
 > Based in Montreal, Canada  
-> Ethically Sourced (Made Locally)  
-> 
+> Ethically Sourced (Made Locally)
+> Have some give back programs
+
+### [Newman's Own Foundation](https://newmansown.org) - :warning:	
+> 100% of Profits go to charity  
+> Focuses on food
+
+### [Two Blind Brothers](https://twoblindbrothers.com) - :warning:	
+> 100% of Profits go to charity
+> Sell mystery boxes and clothing
+> Working toward curing blindness
