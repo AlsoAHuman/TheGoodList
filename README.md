@@ -28,6 +28,6 @@ Each company must meet the following criteria
 > Focuses on food
 
 ### [Two Blind Brothers](https://twoblindbrothers.com) - :warning:	
-> 100% of Profits go to charity
-> Sell mystery boxes and clothing
+> 100% of Profits go to charity  
+> Sell mystery boxes and clothing  
 > Working toward curing blindness
