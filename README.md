@@ -15,3 +15,10 @@ Each company must meet the following criteria
 > 100% of Profits Go To Charity.  
 > Founded By [The Green Brothers](https://en.wikipedia.org/wiki/Green_brothers).  
 > Focuses on Ethical and Environmentally Friendly Production.
+
+### [Origamicustoms](https://origamicustoms.com)
+> Trans/Queer Focused  
+> Queer & Small Business  
+> Based in Montreal, Canada  
+> Ethically Sourced (Made Locally)  
+> 
