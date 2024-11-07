@@ -23,11 +23,11 @@ Each company must meet the following criteria
 > Ethically Sourced (Made Locally)
 > Have some give back programs
 
-### [Newman's Own Foundation](https://newmansown.org) - :warning:	
+### [Newman's Own Foundation](https://newmansown.org) - :warning: :heart_hands:  
 > 100% of Profits go to charity  
 > Focuses on food
 
-### [Two Blind Brothers](https://twoblindbrothers.com) - :warning:	
+### [Two Blind Brothers](https://twoblindbrothers.com) - :warning: :heart_hands:  
 > 100% of Profits go to charity  
 > Sell mystery boxes and clothing  
 > Working toward curing blindness
