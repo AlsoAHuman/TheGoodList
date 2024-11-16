@@ -1,5 +1,8 @@
 # TheGoodList
-A compilation of ethical sources, at least according to my standards. This project is still under construction. This symbol :warning: means the source has not been investigated to my liking and is to be faced with some sceptisism. If that symbol is not used, you can assume the project is relatively trustworthy. :heart_hands: means that the project gives 100% of profits to some form of charity.
+A compilation of ethical sources, at least according to my standards. This project is still under construction.  
+:warning: means the source has not been investigated to my liking and is to be faced with some sceptisism.  
+:heart_hands: means that the project gives 100% of profits to some form of charity.  
+:balance_scale: means that for every product you buy, the company donates the same product to charity.
 
 ## Qualifications
 Each company must meet the following criteria:  
