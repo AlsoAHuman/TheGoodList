@@ -26,6 +26,12 @@ Each company must meet the following criteria:
 > Ethically sourced (Made Locally)  
 > Has some give back programs
 
+### [Equality Threads](https://www.equalitythreads.com/en-us)
+> Trans/Queer Focused  
+> Queer & Small Business  
+> Ethically sourced
+> 15% of profits go to charity
+
 ### [Newman's Own Foundation](https://newmansown.org) - :warning: :heart_hands:  
 > 100% of profits go to charity  
 > Focuses on food
