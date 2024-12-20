@@ -32,7 +32,7 @@ Each company must meet the following criteria:
 > Ethically sourced
 > 15% of profits go to charity
 
-### [Newman's Own Foundation](https://newmansown.org) - :warning: :heart_hands:  
+### [Newman's Own Foundation](https://newmansown.org) - :heart_hands:  
 > 100% of profits go to charity  
 > Focuses on food
 
